@@ -1,5 +1,3 @@
-import React from 'react';
-
 import { useCarToolStoreContext } from '../contexts/CarToolStoreContext';
 import { CarTool } from '../components/CarTool';
 

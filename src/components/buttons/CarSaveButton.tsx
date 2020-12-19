@@ -1,4 +1,3 @@
-import React from 'react';
 import SaveIcon from '@material-ui/icons/Save';
 
 import { CarIconButton } from './CarIconButton';

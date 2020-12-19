@@ -1,5 +1,4 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import { render } from 'react-dom';
 import { ThemeProvider } from '@material-ui/core';
 
 import { carToolTheme } from './carToolTheme';
@@ -15,7 +14,7 @@ const initialCars: Car[] = [
   { id: 2, make: 'Tesla', model: 'S', year: 2019, color: 'red', price: 120000 },
 ];
 
-ReactDOM.render(
+render(
   <CarToolStoreProvider initialCars={initialCars}>
     <ThemeProvider theme={carToolTheme}>
     <CarToolContainer />

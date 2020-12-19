@@ -1,5 +1,3 @@
-import React from 'react';
-
 import { FormControlChange } from '../../models/FormControls';
 import { BaseTextFieldProps, BaseSelectTextField } from './baseTextFields';
 import { SelectOption, selectOne } from './helpers';

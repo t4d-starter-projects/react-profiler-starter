@@ -1,5 +1,3 @@
-import React from 'react';
-
 import { FormControlChange } from '../../models/FormControls';
 import { BaseRequiredTextField, BaseTextFieldProps } from './baseTextFields';
 

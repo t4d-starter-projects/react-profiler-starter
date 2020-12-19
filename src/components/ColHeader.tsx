@@ -1,4 +1,3 @@
-import React from 'react';
 import { TableCell, Box } from '@material-ui/core';
 import { ArrowUpward, ArrowDownward } from '@material-ui/icons';
 

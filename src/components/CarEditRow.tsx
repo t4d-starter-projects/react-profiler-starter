@@ -1,4 +1,3 @@
-import React from 'react';
 import { TableRow, TableCell } from '@material-ui/core';
 
 import { Car } from '../models/Car';

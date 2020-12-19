@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import { Grid } from '@material-ui/core';
 
 import { ToolHeader } from './ToolHeader';
